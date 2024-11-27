@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+      margin-top: 50px;
+}
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+  }
+  #feedback {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  p{
+    font-size: 1.5rem;
+  }
